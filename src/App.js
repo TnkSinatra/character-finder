@@ -17,7 +17,7 @@ function App() {
       }
       {
         <p> <br/> <br/> <br/> </p>
-      {
+      }
     </div>
   );
 }

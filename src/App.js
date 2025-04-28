@@ -12,7 +12,7 @@ function App() {
   return (
     <div className={`App ${theme}`}>
       <Header theme={theme} toggleTheme={toggleTheme} />
-      {<p> <br> <br> <br> <br> <br> <br> <br><p>/* Your page content here */}
+      {/* Your page content here */}
     </div>
   );
 }

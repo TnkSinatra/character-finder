@@ -16,7 +16,7 @@ function App() {
         <p>Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions. - Albert Einstein </p>
       }
       {
-        <p> <br/> <br/> <br/> </p>
+        <p> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> </p>
       }
     </div>
   );

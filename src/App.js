@@ -12,7 +12,9 @@ function App() {
   return (
     <div className={`App ${theme}`}>
       <Header theme={theme} toggleTheme={toggleTheme} />
-      {/* Your page content here */}
+      {
+        <p>Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions. - Albert Einstein </p>
+      }
     </div>
   );
 }
